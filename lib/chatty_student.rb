@@ -14,4 +14,5 @@ class Chatty_student
     super
     super
     super
+  end
 end
